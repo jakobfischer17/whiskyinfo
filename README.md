@@ -1,6 +1,6 @@
 # whiskyinfo
 
-This project is a website using open data about whiskies to display information and visualize it. It was developed solely by me as part of a university course. 
+This project is a website using open data about whiskies to display information and visualize it. It was developed solely by me as part of a university course. I used Ruby on Rails to develop the application and some JavaScript libraries + Bootstrap for Frontend. DB was PostgerSQL since that works well with deployment on Heroku.
 
 The application can be viewed at https://whiskyinfo2.herokuapp.com (allow 30 seconds for the server to wake up)
 
